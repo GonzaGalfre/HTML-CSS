@@ -5,8 +5,12 @@ html {
     box-sizing: inherit;
   }
 
-h1 {
-    color: blue;
-    padding: 10px;
+.navbar {
+    border: 1px solid black;
+    height: 100px;
+}
+
+.logo {
+    height: 100px;
 }
 
